@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Ahmed Hassaan
 
-<!--
-**ahassaanlatki/ahassaanlatki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.S. in Business Analytics** · William & Mary, Mason School of Business
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm a graduate student with a focus on data science and machine learning. I enjoy working with data to uncover patterns, build predictive models, and drive smarter decisions.
+
+---
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1A5276?style=for-the-badge&logoColor=white)
+
+---
+
+### Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-ahassaan@wm.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahassaan@wm.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Hassaan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedlatki/)
+
+---
+
+*Thanks for stopping by!*
+
